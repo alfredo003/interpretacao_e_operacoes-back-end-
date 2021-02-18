@@ -1,0 +1,6 @@
+Classes no php :
+
+Uma classe é um conjunto de variáveis e funções relacionadas a essas variáveis. Uma vantagem da
+utilização é poder usufruir do recurso de encapsulamento de informação. Com o encapsulamento o usuário de uma classe
+não precisa saber como ela é implementada, bastando para a utilização conhecer a interface, ou seja, as funções
+disponíveis. Uma classe é um tipo, e portanto não pode ser atribuída a uma variável.

@@ -1,0 +1,22 @@
+.error {
+    width: auto;
+    padding: 10px;
+    background-color: brown;
+    color: #fff;
+    font-family: 'calibri'; font-weight: bold;
+}
+.success {
+    width: auto;
+    padding: 10px;
+    background-color: rgb(67, 165, 42);
+    color: #fff;
+    font-family: 'calibri';
+    font-weight: bold;
+}
+.default {
+    width: auto;
+    padding: 10px;
+    border:2px solid #333333;
+    font-family: 'calibri';
+  font-weight: bold;
+}
